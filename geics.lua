@@ -1,1 +1,1 @@
-print(loadYunLua("你好"))
+print("你好")
